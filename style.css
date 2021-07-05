@@ -9,27 +9,43 @@ h1{font-size: 50px;
 .mymy{color: gold;
 }
 
-   section{display: flex;}
+   section{display: flex;
+      margin-bottom: 150px;}
 
    .half-width{ width: 50%;
       margin-left: 20px;
-       padding-left: 20px;}
+      padding-left: 20px;}
 
    .half-width img{width:80%;}
 
    .siuuu{color: black;
           
-      background-image: linear-gradient(blue,skyblue
-      );
-        
+      background-image: linear-gradient(blue,skyblue );
           border-radius: 5px;
-          padding: 10px 20px;
+         padding: 5px;
           text-decoration: none;
           font-weight: 700;
           
          }
          .morter{background-image: url(images/top-banner.png);
                 background-repeat: no-repeat;}
+           
+          .morter-2{background-image: url(images/dream-bg.png);
+                    background-repeat: no-repeat;
+                    background-position: right;}      
+
+           
+           .bbb{color:green ;}
+
+           
+           .color{background-image: linear-gradient(green,skyblue);
+                  color: black;
+                  text-decoration: none;
+                  border-radius: 5px;
+                  padding: 10px;
+                   height: 30px;
+                   width: 100px;
+                  font-weight: 700;}
 
 
      
